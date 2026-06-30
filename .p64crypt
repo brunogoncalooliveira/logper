@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "kdf": "scrypt",
+  "n": 16384,
+  "r": 8,
+  "p": 1,
+  "klen": 64,
+  "salt": "2c38ebbf558546562c8e87bb336db4a2",
+  "verify": "f627f2b7b2e34c2cbcf3222102e1090fd3b75b3135fe7891d3a420e504695d8f"
+}
